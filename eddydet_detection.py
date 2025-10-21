@@ -2,7 +2,7 @@
 Eddy detection utilities for the Gulf of California repository.
 
 This module implements a hybrid detector combining:
-  1) Normalized Okubo–Weiss (HAL13 style) + local speed minimum (seed/halo),
+  1) Normalized Okubo–Weiss + local speed minimum (seed/halo),
   2) Nencioli ring criterion (velocity geometry),
   3) Closed-contour selection with amplitude and geometry filters (CHE11-like).
 
