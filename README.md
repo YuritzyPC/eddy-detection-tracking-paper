@@ -113,7 +113,3 @@ You are free to use, share, and adapt the materials with appropriate credit.
 ---
 
 *Last updated: 2025-10-21*
-
-
-
-*Last updated: 2025-10-21*
